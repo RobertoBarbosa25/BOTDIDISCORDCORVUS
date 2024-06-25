@@ -1,0 +1,189 @@
+{
+    "questions": [
+        {
+            "id": 0,
+            "question": "O mais novo, mas o maior dos 3 Males Supremos",
+            "answer": "Diablo"
+        },
+        {
+            "id": 1,
+            "question": "O mais velho dos 3 Males Supremos, fervendo de ódio",
+            "answer": "Mephisto"
+        },
+        {
+            "id": 2,
+            "question": "Demônio que nunca esteve entre 3 Males Supremos",
+            "answer": "Azmodan"
+        },
+        {
+            "id": 3,
+            "question": "Esta criatura demoníaca ajudou a criar o mundo de Santuário:",
+            "answer": "Lilith"
+        },
+        {
+            "id": 4,
+            "question": "Senhor da Destruição, que sempre está em guerra",
+            "answer": "Baal"
+        },
+        {
+            "id": 5,
+            "question": "O Senhor da Dor e rei dos vermes.",
+            "answer": "Duriel"
+        },
+        {
+            "id": 6,
+            "question": "Senhor das Mentiras, em quem nunca se deve confiar",
+            "answer": "Belial"
+        },
+        {
+            "id": 7,
+            "question": "A Dama da Angústia, que saboreia o tormento",
+            "answer": "Andariel"
+        },
+        {
+            "id": 8,
+            "question": "Maior General do Inferno, a personificação do pecado",
+            "answer": "Azmodan"
+        },
+        {
+            "id": 9,
+            "question": "Quantos Grandes Males nasceram no Inferno Ardente?",
+            "answer": "7"
+        },
+        {
+            "id": 10,
+            "question": "Maior guerreiro em toda criação. Arcanjo do Valor/Bravura",
+            "answer": "Imperius"
+        },
+        {
+            "id": 11,
+            "question": "Este anjo ajudou a criar a humanidade.",
+            "answer": "Inárius"
+        },
+        {
+            "id": 12,
+            "question": "A encarnação da esperança, objeto do amor de todos os anjos.",
+            "answer": "Auriel"
+        },
+        {
+            "id": 13,
+            "question": "Quem detém o pergaminho do destino?",
+            "answer": "Iterael"
+        },
+        {
+            "id": 14,
+            "question": "O primeiro líder do Conselho Angiris, o Arcanjo da Sabedoria",
+            "answer": "Malthael"
+        },
+        {
+            "id": 15,
+            "question": "Quantos arcanjos faziam parte do Conselho Ângiris na época da criação de Santuário?",
+            "answer": "5"
+        },
+        {
+            "id": 16,
+            "question": "Qual é a arma do Arcanjo da Justiça?",
+            "answer": "El'Druin"
+        },
+        {
+            "id": 17,
+            "question": "Onde nascem os anjos do Paraíso celestial?",
+            "answer": "Arco Cristalino"
+        },
+        {
+            "id": 18,
+            "question": "Que ancestral ensinou seus costumes aos druidas?",
+            "answer": "Vasily"
+        },
+        {
+            "id": 19,
+            "question": "O Segundo Imortal foi nomeado",
+            "answer": "Akeba"
+        },
+        {
+            "id": 20,
+            "question": "O Rei Imortal venerado por todos os bárbaros.",
+            "answer": "Bul-Kathos"
+        },
+        {
+            "id": 21,
+            "question": "Este clã de magos foi o primeiro a evocar demônios em Santuário.",
+            "answer": "Vizjerei"
+        },
+        {
+            "id": 22,
+            "question": "A Pedra do Mundo é conhecida por todos estes nomes, exceto um:",
+            "answer": "A Lança de Cristal"
+        },
+        {
+            "id": 23,
+            "question": "Quantas luas brilham sobre Santuário?",
+            "answer": "1"
+        },
+        {
+            "id": 24,
+            "question": "Kehjan do Sul é coberta de",
+            "answer": "Selvas"
+        },
+        {
+            "id": 25,
+            "question": "Um ferreiro e um alfaiate jogam dados... Quantos jogos eles jogaram",
+            "answer": "11"
+        },
+        {
+            "id": 26,
+            "question": "Há 27 ratos marrons, 18 pretos, 14 brancos...",
+            "answer": "46"
+        },
+        {
+            "id": 27,
+            "question": "Barbaro mata 17, feiticeira 18 e necro ressuscita 6, quantos corpos estão no chão",
+            "answer": "29"
+        },
+        {
+            "id": 28,
+            "question": "Eu posso cair sem som, e quando eu caio, eu cubro o chão",
+            "answer": "Noite"
+        },
+        {
+            "id": 29,
+            "question": "Tenho muitos dentes, mas não posso morder. A vaidade é parte do meu ser.",
+            "answer": "Pente"
+        },
+        {
+            "id": 30,
+            "question": "Tem lagos, mas não tem água. Tem montanhas, mas não tem construções.",
+            "answer": "Mapa"
+        },
+        {
+            "id": 31,
+            "question": "Vive, mas não respira. É frio como a morte. Não tem sede, mas sempre bebe.",
+            "answer": "Peixe"
+        },
+        {
+            "id": 32,
+            "question": "Tenho um olho, mas não enxergo. Em mãos, muita coisa conserto.",
+            "answer": "Agulha"
+        },
+        {
+            "id": 33,
+            "question": "Meus fios não me dão proteção e sempre apontam na mesma direção",
+            "answer": "Escova"
+        },
+        {
+            "id": 34,
+            "question": "Tão frágil é sempre quebrado por um sussurro",
+            "answer": "Silêncio"
+        },
+        {
+            "id": 35,
+            "question": "Quanto mais são removidos, mais são deixados para trás",
+            "answer": "Passos"
+        },
+        {
+            "id": 36,
+            "question": "Vive, mas não respira. É frio como a morte. Não tem sede, mas sempre bebe.",
+            "answer": "Peixe"
+        }
+    ]
+}
