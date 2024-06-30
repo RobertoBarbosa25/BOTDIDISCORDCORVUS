@@ -12,7 +12,7 @@ nltk.download('popular')
 
 
 # token do bot.
-TOKEN = 'SEU TOKEN AQUI'
+TOKEN = 'MTI1NDczMzIxMzA3NTY0MDM2Mw.GQu57j.0xhXLGRQoXvz5ULfQVsXERZT5YPPTcH-cLCazs'
 
 
 with open('perguntas_respostas.json', 'r', encoding='utf-8') as file:
